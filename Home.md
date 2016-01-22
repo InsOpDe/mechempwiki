@@ -1,3 +1,3 @@
 asd
 
-[qqq](/qqq)
+[qqq](/wiki/qqq)
