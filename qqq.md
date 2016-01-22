@@ -1,1 +1,3 @@
 qqq
+
+[home](/wiki/home)
